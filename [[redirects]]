@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/blog/*"
+  to = "https://adaimportacionesproveedores26.netlify.app"
+  status = 301
+  force = true
